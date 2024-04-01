@@ -1,0 +1,54 @@
+.left {
+<<<<<<< HEAD
+    width: 50%;
+=======
+    width: 40%;
+>>>>>>> 634869d0a14147a70b774e6cbb6ae6535dd16cbf
+    height: 100%;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+<<<<<<< HEAD
+    width: 50%;
+=======
+    width: 60%;
+>>>>>>> 634869d0a14147a70b774e6cbb6ae6535dd16cbf
+    height: 100%;
+    color: var(--dark-grey);
+    overflow: hidden;
+    /* background-color: black; */
+}
+
+
+.f-password {
+    text-align: right;
+    font-size: .9rem;
+    font-weight: normal;
+}
+
+#terms {
+    display: flex;
+    gap: .4rem;
+    justify-content: flex-start;
+    font-size: .9rem;
+    font-weight: normal;
+}
+
+#terms input {
+    width: 1.3rem;
+<<<<<<< HEAD
+}
+
+.split-items {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #646CFF;
+    cursor: pointer
+=======
+>>>>>>> 634869d0a14147a70b774e6cbb6ae6535dd16cbf
+}
